@@ -7,12 +7,12 @@ A sleek and interactive Power BI dashboard built to analyze E-commerce performan
 ---
 
 ## 📸 Dashboard Preview
-
+![Dashboard Preview](dashboard-preview.png)
 
 
 ---
 
-## 🚀 Key KPIs
+## 🚀 Key KPIs (Key Performance Indicators)
 
 - Total Sales & Profit
 - Monthly Sales Trend
